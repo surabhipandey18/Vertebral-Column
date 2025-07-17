@@ -33,10 +33,9 @@ Each model was evaluated on the basis of:
 
 ## Results Summary
 
-| Model                | Accuracy | Precision | Recall | F1 Score | AUC Category |
-|--------------------- |----------|-----------|--------|----------|--------------|
-| Support Vector       |          |           |        |          |              |
-|Machine (SVM)         | 83.87%   | 0.64      | 1.00   | 0.78     | High         |
+| Model               | Accuracy | Precision | Recall | F1 Score | AUC Category |
+|---------------------|----------|-----------|--------|----------|--------------|
+| Support Vector Machine (SVM)   | 83.87%   | 0.64      | 1.00   | 0.78     | High         |
 | Random Forest        | 82.26%   | 0.64      | 0.89   | 0.74     | High         |
 | Logistic Regression  | 80.65%   | 0.60      | 1.00   | 0.75     | Good         |
 
